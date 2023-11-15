@@ -15,7 +15,7 @@ public class First {
 		//StringBuffer  buf = new StringBuffer("NANDA");
 		//buf.append(s);
 		//buf.reverse();
-		//System.out.println(buf);
+		System.out.println("Successfully Implemented");
 		
   //ownlogic
 		
